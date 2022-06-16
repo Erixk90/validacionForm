@@ -1,3 +1,7 @@
-# Este proyecto fue gracias a la pagina de falcon master, pero haciendole unos cuantos ajustes. Qu
+## Validación de Formularios en Frontend.
 
-Solo es un archivo del formulario y sus validaciones por el FrontEnd.
+Este proyecto es una validación de Formulario por parte del Frontend, validando todos los campos de un formulario.
+
+Solo necesitas hacer un NPM install  para cargar los modulos usados y luego un NPM Start
+
+Gracias por revisar. 
